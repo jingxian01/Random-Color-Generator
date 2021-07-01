@@ -1,4 +1,4 @@
-# random-color-generator
+# random color generator
 project link: https://rcolor.netlify.app
 
 Random Color Generator is a web app that generates a random color everytime a user click the button.
